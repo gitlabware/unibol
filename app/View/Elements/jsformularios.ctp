@@ -1,0 +1,28 @@
+<?php echo $this->Html->script(array(     
+    'lib/jquery-ui/jquery-ui-1.8.23.custom.min',
+    'forms/jquery.ui.touch-punch.min',
+    'forms/jquery.inputmask.min',
+    'forms/jquery.autosize.min',
+    'lib/qtip2/jquery.qtip.min',
+    'forms/jquery.counter.min',
+    'lib/datepicker/bootstrap-datepicker.min',
+    'lib/datepicker/bootstrap-timepicker.min',
+    'lib/tag_handler/jquery.taghandler.min',
+    'forms/jquery.spinners.min',
+    'lib/uniform/jquery.uniform.min',
+    'forms/jquery.progressbar.anim',
+    'lib/multiselect/js/jquery.multi-select.min',
+    'lib/chosen/chosen.jquery.min',
+    'lib/plupload/js/plupload.full',
+    'lib/plupload/js/jquery.plupload.queue/jquery.plupload.queue.full', 
+    'lib/colorpicker/bootstrap-colorpicker',
+    'lib/complexify/jquery.complexify.min',
+    'lib/tiny_mce/jquery.tinymce',
+    //'gebo_notifications',
+    //'gebo_common',
+    //'jquery.validationEngine',
+    'lib/validation/jquery.validate.min',
+    //'gebo_validation',
+    'gebo_forms'
+    )); 
+?>

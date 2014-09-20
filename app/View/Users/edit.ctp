@@ -23,11 +23,7 @@
         <div class="row-fluid">
             
             <div class="span4">
-            <?php
-	
-		//echo $this->Form->input('password');
-		//echo $this->Form->input('group_id');
-	?>
+            
             <label>Inserte el usuario <span class="f_req">*</span></label>
                 <?php echo $this->Form->text('username', array('placeholder'=>'Inserte el usuario','required'));?>
             </div>

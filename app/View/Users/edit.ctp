@@ -32,8 +32,7 @@
                 <?php echo $this->Form->text('username', array('placeholder'=>'Inserte el usuario','required'));?>
             </div>
             <div class="span4">
-                <label>Inserte el password <span class="f_req">*</span></label>
-                <?php echo $this->Form->password('password', array('placeholder'=>'Inserte una contrasena', 'required', 'value'=>''));?>
+                
             </div>
         </div>
     </div>
